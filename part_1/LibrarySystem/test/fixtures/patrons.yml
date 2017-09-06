@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  card_number: 1
+  email: MyString
+  loan_id: 1
+  hold_id_integer: MyString
+
+two:
+  name: MyString
+  card_number: 1
+  email: MyString
+  loan_id: 1
+  hold_id_integer: MyString
